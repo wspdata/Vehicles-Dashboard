@@ -59,7 +59,7 @@ Projeto de análise e visualização de dados aplicado a um conjunto de dados de
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositório>
+git clone https://github.com/wspdata/Vehicles-Dashboard
 
 # Crie e ative o ambiente virtual
 python -m venv vehicles_env
